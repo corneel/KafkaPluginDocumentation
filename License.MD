@@ -1,7 +1,7 @@
 The following products and libraries are included in this product:
 
 1. librdkafka - Apache Kafka C driver library
-Copyright (c) 2012, Magnus Edenhill
+Copyright (c) 2012-2018, Magnus Edenhill
 All rights reserved.
 For all the libraries that Librdkafka contain, 
 please refer to this page - https://github.com/edenhill/librdkafka .
@@ -16,14 +16,12 @@ The Kafka plugin is commercial software provided through the Unreal Marketplace.
 Copyright (c) 2018, Augmented Enterprise, Inc. (Augmented Enterprise), and Corneel Booysen   
 All rights reserved.
 
-The person or company that purchase the plugin from the Unreal MArket place has the following rights.
+The person or company that purchase the plugin from the Unreal Market place has the following rights.
 
 1. General. The software, documentation and any fonts accompanying this License whether on disk, in read only memory, 
 on any other media or in any other form (collectively the "Software") are licensed, not sold, to you by Augmented Enterprise, Inc.
 for use only under the terms of this License, and Augmented Enterprise, Inc. reserves all rights not expressly granted to you. 
-The rights granted herein are limited to Augmented Enterprise's intellectual property rights in the Augmented Enterprise Software and do not include any other 
-patents or intellectual property rights. You own the media on which the Augmented Enterprise Software is recorded but Augmented Enterprise, Inc. 
-and Augmented Enterprise's licensor(s) retain ownership of the Software itself.
+The rights granted herein are limited to Augmented Enterprise's intellectual property rights in the Augmented Enterprise Software and do not include any other patents or intellectual property rights. You own the media on which the Augmented Enterprise Software is recorded but Augmented Enterprise, Inc. and Augmented Enterprise's licensor(s) retain ownership of the Software itself.
 
 2. Permitted License Uses and Restrictions. This License allows you to install and use one (1) copy of the Software on 
 a single device or computer at a time. This License does not allow the Software to exist on more than one such device or 
@@ -48,15 +46,9 @@ Software, full or partial, including copies stored on a computer or other storag
 Software reads and agrees to accept the terms and conditions of this License.
 
 4. Termination. This License is effective until terminated. Your rights under this License will terminate automatically without 
-notice from Augmented Enterprise if you fail to comply with any term(s) of this License. Upon the termination of this License, you shall cease 
-all use of the Augmented Enterprise Software and destroy all copies, full or partial, of the Augmented Enterprise, Inc. Software.
+notice from Augmented Enterprise if you fail to comply with any term(s) of this License. Upon the termination of this License, you shall cease all use of the Augmented Enterprise Software and destroy all copies, full or partial, of the Augmented Enterprise, Inc. Software.
 
-5. Limited Warranty on Media. Augmented Enterprise warrants the media on which the Software is recorded and delivered by Augmented Enterprise to be free from 
-defects in materials and workmanship under normal use for a period of ninety (90) days from the date of original retail purchase. 
-Your exclusive remedy under this Section shall be, at Augmented Enterprise's option, either a refund of the purchase price of the product 
-containing the Software or replacement of the Software which is returned to Augmented Enterprise. THIS LIMITED WARRANTY AND ANY IMPLIED 
-WARRANTIES ON THE MEDIA INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND OF FITNESS FOR A 
-PARTICULAR PURPOSE, ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF ORIGINAL RETAIL PURCHASE. 
+5. Limited Warranty on Media. Augmented Enterprise warrants the media on which the Software is recorded and delivered by Augmented Enterprise to be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of original retail purchase. Your exclusive remedy under this Section shall be, at Augmented Enterprise's option, either a refund of the purchase price of the product containing the Software or replacement of the Software which is returned to Augmented Enterprise. THIS LIMITED WARRANTY AND ANY IMPLIED WARRANTIES ON THE MEDIA INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND OF FITNESS FOR A PARTICULAR PURPOSE, ARE LIMITED IN DURATION TO NINETY (90) DAYS FROM THE DATE OF ORIGINAL RETAIL PURCHASE. 
 SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. 
 THE LIMITED WARRANTY SET FORTH HEREIN IS THE ONLY WARRANTY MADE TO YOU AND IS PROVIDED IN LIEU OF ANY OTHER WARRANTIES (IF ANY) 
 CREATED BY ANY DOCUMENTATION OR PACKAGING. THIS LIMITED WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS, AND YOU MAY ALSO HAVE OTHER RIGHTS 
