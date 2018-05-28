@@ -12,7 +12,7 @@ https://github.com/kafka-dev/kafka/blob/master/LICENSE .
 3. For Unreal Engine's EULA, please refer to this page:
 https://www.unrealengine.com/en-US/eula .
 
-The Kafka plugin is commercial software provided through the Unreal Marketplace. The Kafka Plugin is the property of Augmented Enterprise, Inc.
+The Kafka plugin is commercial software provided through the Unreal Marketplace.  
 Copyright (c) 2018, Augmented Enterprise, Inc. (Augmented Enterprise), and Corneel Booysen
 All rights reserved.
 
