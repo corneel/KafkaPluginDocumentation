@@ -18,35 +18,53 @@ Callbacks are only "virtually" implemented (using blueprint events), in order to
 
 Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))
 UE4Editor-Kafka.dll (Plugin dll)
+
 Librdkafka dlls:
+
 librdkafka.dll
+
 librdkafkacpp.dll
+
 msvcr120.dll
+
 zlib.dll
 
 
 Number of Blueprints:
 KafkaBlueprintClass - a Blueprint class that contains the majority of the plugin blueprint code.
+
 KafkaPluginActor - implements the KafkaBlueprintClass and adds additional blueprint code.
+
 KafkaPluginStarterMap (A map that contains two KafkaPluginActor objects and a map blueprint)
+
 KafkaPluginRequestStructure - a structure used in all blueprints.
+
 KafkaActorWidget - a widget used by the KafkaPluginActor.
+
 KafkaPluginFunctions enumeration - used in all blueprints.
+
 KafkaController - just a default controller.
+
 Augmented_Enterprise_128_Mat - a material used in the KafkaPluginActor.
+
 Augmented_Enterprise_128 - texture used to make the Augmented_Enterprise_128_Mat material
 
 
+
 Number of C++ Classes:
+
 No C++ classes will be provided as part of the plugin. 
 
 Network Replicated: (Yes/No)
+
 No 
 
 Supported Development Platforms: (Please include a list of platforms on which the product can be used for development)
+
 Win64 only
 
 Supported Target Build Platforms: (Please include a list of platforms for which the product can be targeted in a packaged build)
+
 Win64 only
 
 Documentation: https://github.com/corneel/KafkaPluginDocumentation/wiki
