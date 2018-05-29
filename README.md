@@ -16,8 +16,7 @@ The C++ interface is not public at this stage.
 Callbacks are only "virtually" implemented (using blueprint events), in order to provide a low-level Blueprint event interface. The reason for this is that the KafkaConsumer class does not implement callbacks at this stage.
 
 
-Code Modules: (Please include a full list of each Plugin module and their module type (Runtime, Editor etc.))
-UE4Editor-Kafka.dll (Plugin dll)
+Code Modules: 
 
 Librdkafka dlls:
 
